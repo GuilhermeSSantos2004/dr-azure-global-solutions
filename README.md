@@ -84,7 +84,7 @@ Este projeto recria, do zero, toda a infraestrutura de servidores e autenticaç�
 4. Validar a disponibilidade dos serviços (AD/IIS).
 5. Atualizar DNS e informar equipe/usuários.
 6. Meta: recuperação em até 10 minutos.
-
+```
 
 ## Passos do Failover Manual
 
