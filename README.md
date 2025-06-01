@@ -1,5 +1,10 @@
 # Projeto: Infraestrutura Resiliente e Autenticação com Alta Disponibilidade no Azure
 
+## 👥 Integrantes
+
+- Laura Claro Mathias – RM98747
+- Guilherme Silva Dos Santos – RM551168
+  
 ## Objetivo do Desafio
 
 Este projeto recria, do zero, toda a infraestrutura de servidores e autenticação, com alta disponibilidade e resiliência para suportar falhas como falta de energia, garantindo:
