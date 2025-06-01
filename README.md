@@ -67,6 +67,10 @@ Este projeto recria, do zero, toda a infraestrutura de servidores e autenticaç�
 
 ---
 
+## Vídeo explicativo
+
+[Assista aqui](https://youtu.be/VXgpDZnpn9k?si=GEHqtWvaFcO-uzuj)
+
 ## 4. Alta Disponibilidade e Recuperação de Falhas
 
 ### a) **Snapshots e Backups**
